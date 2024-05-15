@@ -1,0 +1,30 @@
+*{
+  font-family:monospace;
+  text-align: center;
+  /* background-color: #8A8D5E; */
+}
+body{
+  padding: 0;
+  margin: 0:
+  background-color: grey;
+}
+a{
+  background-color: black;
+  text-decoration: none;
+  color: ghostwhite;
+  width: 50px;
+}
+section{
+  background-color: #A3A4AF;
+  padding: 1px;
+  margin: 0;
+}
+img{
+  width: 250px;
+  height: 250px;
+}
+.box , .box1 , .box2 , .box3{
+  background-color: #A3A4AF;
+  border: 2px solid;
+  border-radius: 5px;
+}
